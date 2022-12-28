@@ -1,0 +1,4 @@
+name: Vouchers
+main: org.killjoy.vouchers.Vouchers
+version: ${version}
+api-version: 1.19

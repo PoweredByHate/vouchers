@@ -1,0 +1,15 @@
+{
+  "example": {
+    "name": "<red>Example Voucher",
+    "type": "PAPER",
+    "lore": [],
+    "commands": ["msg %player Sample command", "msg %player This is another command"]
+  },
+
+  "shout": {
+    "name": "<green>Shout!",
+    "type": "COMPASS",
+    "lore": ["This voucher performs", "a command.", "", "<red>Color!"],
+    "commands": ["say Hello World!"]
+  }
+}

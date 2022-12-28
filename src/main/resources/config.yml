@@ -1,0 +1,17 @@
+edit-menu:
+  title: "Edit Menu"
+  size: 9
+
+  rename:
+    slot: 0
+    name: "<aqua><bold>Rename Voucher"
+    type: NAME_TAG
+
+  item-selector:
+    slot: 2
+    name: "<aqua><bold>Edit Item"
+    type: NETHER_STAR
+
+  commands-editor:
+    slot: 4
+    name: "<aqua><bold>Edit Commands"
